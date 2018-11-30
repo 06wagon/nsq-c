@@ -5,6 +5,8 @@
 #ifndef STRUGGLE_NSQ_SUB_CLIENT_H
 #define STRUGGLE_NSQ_SUB_CLIENT_H
 
+#include <stdint.h>
+
 typedef struct NSQMsg {
     const char * topic;
     const char * channel;

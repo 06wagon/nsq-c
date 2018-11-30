@@ -12,3 +12,4 @@ pub_client
 client
 CMakeCache.txt
 *.cbp
+build
